@@ -1,5 +1,5 @@
-torch==1.13.1
-transformers==4.25.1
+torch==2.13.0
+transformers==5.10.1
 sentencepiece
 datasets
 accelerate
